@@ -1,0 +1,562 @@
+[
+    {
+      "gender": "female",
+      "race_ethnicity": "group B",
+      "parental_level_of_education": "bachelor's degree",
+      "lunch": "standard",
+      "test_preparation_course": "none",
+      "math_score": 72,
+      "reading_score": 72,
+      "writing_score": 74
+    },
+    {
+      "gender": "female",
+      "race_ethnicity": "group C",
+      "parental_level_of_education": "some college",
+      "lunch": "standard",
+      "test_preparation_course": "completed",
+      "math_score": 69,
+      "reading_score": 90,
+      "writing_score": 88
+    },
+    {
+      "gender": "female",
+      "race_ethnicity": "group B",
+      "parental_level_of_education": "master's degree",
+      "lunch": "standard",
+      "test_preparation_course": "none",
+      "math_score": 90,
+      "reading_score": 95,
+      "writing_score": 93
+    },
+    {
+      "gender": "male",
+      "race_ethnicity": "group A",
+      "parental_level_of_education": "associate's degree",
+      "lunch": "free/reduced",
+      "test_preparation_course": "none",
+      "math_score": 47,
+      "reading_score": 57,
+      "writing_score": 44
+    },
+    {
+      "gender": "male",
+      "race_ethnicity": "group C",
+      "parental_level_of_education": "some college",
+      "lunch": "standard",
+      "test_preparation_course": "none",
+      "math_score": 76,
+      "reading_score": 78,
+      "writing_score": 75
+    },
+    {
+      "gender": "female",
+      "race_ethnicity": "group B",
+      "parental_level_of_education": "associate's degree",
+      "lunch": "standard",
+      "test_preparation_course": "none",
+      "math_score": 71,
+      "reading_score": 83,
+      "writing_score": 78
+    },
+    {
+      "gender": "female",
+      "race_ethnicity": "group B",
+      "parental_level_of_education": "some college",
+      "lunch": "standard",
+      "test_preparation_course": "completed",
+      "math_score": 88,
+      "reading_score": 95,
+      "writing_score": 92
+    },
+    {
+      "gender": "male",
+      "race_ethnicity": "group B",
+      "parental_level_of_education": "some college",
+      "lunch": "free/reduced",
+      "test_preparation_course": "none",
+      "math_score": 40,
+      "reading_score": 43,
+      "writing_score": 39
+    },
+    {
+      "gender": "male",
+      "race_ethnicity": "group D",
+      "parental_level_of_education": "high school",
+      "lunch": "free/reduced",
+      "test_preparation_course": "completed",
+      "math_score": 64,
+      "reading_score": 64,
+      "writing_score": 67
+    },
+    {
+      "gender": "female",
+      "race_ethnicity": "group B",
+      "parental_level_of_education": "high school",
+      "lunch": "free/reduced",
+      "test_preparation_course": "none",
+      "math_score": 38,
+      "reading_score": 60,
+      "writing_score": 50
+    },
+    {
+      "gender": "male",
+      "race_ethnicity": "group C",
+      "parental_level_of_education": "associate's degree",
+      "lunch": "standard",
+      "test_preparation_course": "none",
+      "math_score": 58,
+      "reading_score": 54,
+      "writing_score": 52
+    },
+    {
+      "gender": "male",
+      "race_ethnicity": "group D",
+      "parental_level_of_education": "associate's degree",
+      "lunch": "standard",
+      "test_preparation_course": "none",
+      "math_score": 40,
+      "reading_score": 52,
+      "writing_score": 43
+    },
+    {
+      "gender": "female",
+      "race_ethnicity": "group B",
+      "parental_level_of_education": "high school",
+      "lunch": "standard",
+      "test_preparation_course": "none",
+      "math_score": 65,
+      "reading_score": 81,
+      "writing_score": 73
+    },
+    {
+      "gender": "male",
+      "race_ethnicity": "group A",
+      "parental_level_of_education": "some college",
+      "lunch": "standard",
+      "test_preparation_course": "completed",
+      "math_score": 78,
+      "reading_score": 72,
+      "writing_score": 70
+    },
+    {
+      "gender": "female",
+      "race_ethnicity": "group A",
+      "parental_level_of_education": "master's degree",
+      "lunch": "standard",
+      "test_preparation_course": "none",
+      "math_score": 50,
+      "reading_score": 53,
+      "writing_score": 58
+    },
+    {
+      "gender": "female",
+      "race_ethnicity": "group C",
+      "parental_level_of_education": "some high school",
+      "lunch": "standard",
+      "test_preparation_course": "none",
+      "math_score": 69,
+      "reading_score": 75,
+      "writing_score": 78
+    },
+    {
+      "gender": "male",
+      "race_ethnicity": "group C",
+      "parental_level_of_education": "high school",
+      "lunch": "standard",
+      "test_preparation_course": "none",
+      "math_score": 88,
+      "reading_score": 89,
+      "writing_score": 86
+    },
+    {
+      "gender": "female",
+      "race_ethnicity": "group B",
+      "parental_level_of_education": "some high school",
+      "lunch": "free/reduced",
+      "test_preparation_course": "none",
+      "math_score": 18,
+      "reading_score": 32,
+      "writing_score": 28
+    },
+    {
+      "gender": "male",
+      "race_ethnicity": "group C",
+      "parental_level_of_education": "master's degree",
+      "lunch": "free/reduced",
+      "test_preparation_course": "completed",
+      "math_score": 46,
+      "reading_score": 42,
+      "writing_score": 46
+    },
+    {
+      "gender": "female",
+      "race_ethnicity": "group C",
+      "parental_level_of_education": "associate's degree",
+      "lunch": "free/reduced",
+      "test_preparation_course": "none",
+      "math_score": 54,
+      "reading_score": 58,
+      "writing_score": 61
+    },
+    {
+      "gender": "male",
+      "race_ethnicity": "group D",
+      "parental_level_of_education": "high school",
+      "lunch": "standard",
+      "test_preparation_course": "none",
+      "math_score": 66,
+      "reading_score": 69,
+      "writing_score": 63
+    },
+    {
+      "gender": "female",
+      "race_ethnicity": "group B",
+      "parental_level_of_education": "some college",
+      "lunch": "free/reduced",
+      "test_preparation_course": "completed",
+      "math_score": 65,
+      "reading_score": 75,
+      "writing_score": 70
+    },
+    {
+      "gender": "male",
+      "race_ethnicity": "group D",
+      "parental_level_of_education": "some college",
+      "lunch": "standard",
+      "test_preparation_course": "none",
+      "math_score": 44,
+      "reading_score": 54,
+      "writing_score": 53
+    },
+    {
+      "gender": "female",
+      "race_ethnicity": "group C",
+      "parental_level_of_education": "some high school",
+      "lunch": "standard",
+      "test_preparation_course": "none",
+      "math_score": 69,
+      "reading_score": 73,
+      "writing_score": 73
+    },
+    {
+      "gender": "male",
+      "race_ethnicity": "group D",
+      "parental_level_of_education": "bachelor's degree",
+      "lunch": "free/reduced",
+      "test_preparation_course": "completed",
+      "math_score": 74,
+      "reading_score": 71,
+      "writing_score": 80
+    },
+    {
+      "gender": "male",
+      "race_ethnicity": "group A",
+      "parental_level_of_education": "master's degree",
+      "lunch": "free/reduced",
+      "test_preparation_course": "none",
+      "math_score": 73,
+      "reading_score": 74,
+      "writing_score": 72
+    },
+    {
+      "gender": "male",
+      "race_ethnicity": "group B",
+      "parental_level_of_education": "some college",
+      "lunch": "standard",
+      "test_preparation_course": "none",
+      "math_score": 69,
+      "reading_score": 54,
+      "writing_score": 55
+    },
+    {
+      "gender": "female",
+      "race_ethnicity": "group C",
+      "parental_level_of_education": "bachelor's degree",
+      "lunch": "standard",
+      "test_preparation_course": "none",
+      "math_score": 67,
+      "reading_score": 69,
+      "writing_score": 75
+    },
+    {
+      "gender": "male",
+      "race_ethnicity": "group C",
+      "parental_level_of_education": "high school",
+      "lunch": "standard",
+      "test_preparation_course": "none",
+      "math_score": 70,
+      "reading_score": 70,
+      "writing_score": 65
+    },
+    {
+      "gender": "female",
+      "race_ethnicity": "group D",
+      "parental_level_of_education": "master's degree",
+      "lunch": "standard",
+      "test_preparation_course": "none",
+      "math_score": 62,
+      "reading_score": 70,
+      "writing_score": 75
+    },
+    {
+      "gender": "female",
+      "race_ethnicity": "group D",
+      "parental_level_of_education": "some college",
+      "lunch": "standard",
+      "test_preparation_course": "none",
+      "math_score": 69,
+      "reading_score": 74,
+      "writing_score": 74
+    },
+    {
+      "gender": "female",
+      "race_ethnicity": "group B",
+      "parental_level_of_education": "some college",
+      "lunch": "standard",
+      "test_preparation_course": "none",
+      "math_score": 63,
+      "reading_score": 65,
+      "writing_score": 61
+    },
+    {
+      "gender": "female",
+      "race_ethnicity": "group E",
+      "parental_level_of_education": "master's degree",
+      "lunch": "free/reduced",
+      "test_preparation_course": "none",
+      "math_score": 56,
+      "reading_score": 72,
+      "writing_score": 65
+    },
+    {
+      "gender": "male",
+      "race_ethnicity": "group D",
+      "parental_level_of_education": "some college",
+      "lunch": "standard",
+      "test_preparation_course": "none",
+      "math_score": 40,
+      "reading_score": 42,
+      "writing_score": 38
+    },
+    {
+      "gender": "male",
+      "race_ethnicity": "group E",
+      "parental_level_of_education": "some college",
+      "lunch": "standard",
+      "test_preparation_course": "none",
+      "math_score": 97,
+      "reading_score": 87,
+      "writing_score": 82
+    },
+    {
+      "gender": "male",
+      "race_ethnicity": "group E",
+      "parental_level_of_education": "associate's degree",
+      "lunch": "standard",
+      "test_preparation_course": "completed",
+      "math_score": 81,
+      "reading_score": 81,
+      "writing_score": 79
+    },
+    {
+      "gender": "female",
+      "race_ethnicity": "group D",
+      "parental_level_of_education": "associate's degree",
+      "lunch": "standard",
+      "test_preparation_course": "none",
+      "math_score": 74,
+      "reading_score": 81,
+      "writing_score": 83
+    },
+    {
+      "gender": "female",
+      "race_ethnicity": "group D",
+      "parental_level_of_education": "some high school",
+      "lunch": "free/reduced",
+      "test_preparation_course": "none",
+      "math_score": 50,
+      "reading_score": 64,
+      "writing_score": 59
+    },
+    {
+      "gender": "female",
+      "race_ethnicity": "group D",
+      "parental_level_of_education": "associate's degree",
+      "lunch": "free/reduced",
+      "test_preparation_course": "completed",
+      "math_score": 75,
+      "reading_score": 90,
+      "writing_score": 88
+    },
+    {
+      "gender": "male",
+      "race_ethnicity": "group B",
+      "parental_level_of_education": "associate's degree",
+      "lunch": "free/reduced",
+      "test_preparation_course": "none",
+      "math_score": 57,
+      "reading_score": 56,
+      "writing_score": 57
+    },
+    {
+      "gender": "male",
+      "race_ethnicity": "group C",
+      "parental_level_of_education": "associate's degree",
+      "lunch": "free/reduced",
+      "test_preparation_course": "none",
+      "math_score": 55,
+      "reading_score": 61,
+      "writing_score": 54
+    },
+    {
+      "gender": "female",
+      "race_ethnicity": "group C",
+      "parental_level_of_education": "associate's degree",
+      "lunch": "standard",
+      "test_preparation_course": "none",
+      "math_score": 58,
+      "reading_score": 73,
+      "writing_score": 68
+    },
+    {
+      "gender": "female",
+      "race_ethnicity": "group B",
+      "parental_level_of_education": "associate's degree",
+      "lunch": "standard",
+      "test_preparation_course": "none",
+      "math_score": 53,
+      "reading_score": 58,
+      "writing_score": 65
+    },
+    {
+      "gender": "male",
+      "race_ethnicity": "group B",
+      "parental_level_of_education": "some college",
+      "lunch": "free/reduced",
+      "test_preparation_course": "completed",
+      "math_score": 59,
+      "reading_score": 65,
+      "writing_score": 66
+    },
+    {
+      "gender": "female",
+      "race_ethnicity": "group E",
+      "parental_level_of_education": "associate's degree",
+      "lunch": "free/reduced",
+      "test_preparation_course": "none",
+      "math_score": 50,
+      "reading_score": 56,
+      "writing_score": 54
+    },
+    {
+      "gender": "male",
+      "race_ethnicity": "group B",
+      "parental_level_of_education": "associate's degree",
+      "lunch": "standard",
+      "test_preparation_course": "none",
+      "math_score": 65,
+      "reading_score": 54,
+      "writing_score": 57
+    },
+    {
+      "gender": "female",
+      "race_ethnicity": "group A",
+      "parental_level_of_education": "associate's degree",
+      "lunch": "standard",
+      "test_preparation_course": "completed",
+      "math_score": 55,
+      "reading_score": 65,
+      "writing_score": 62
+    },
+    {
+      "gender": "female",
+      "race_ethnicity": "group C",
+      "parental_level_of_education": "high school",
+      "lunch": "standard",
+      "test_preparation_course": "none",
+      "math_score": 66,
+      "reading_score": 71,
+      "writing_score": 76
+    },
+    {
+      "gender": "female",
+      "race_ethnicity": "group D",
+      "parental_level_of_education": "associate's degree",
+      "lunch": "free/reduced",
+      "test_preparation_course": "completed",
+      "math_score": 57,
+      "reading_score": 74,
+      "writing_score": 76
+    },
+    {
+      "gender": "male",
+      "race_ethnicity": "group C",
+      "parental_level_of_education": "high school",
+      "lunch": "standard",
+      "test_preparation_course": "completed",
+      "math_score": 82,
+      "reading_score": 84,
+      "writing_score": 82
+    },
+    {
+      "gender": "male",
+      "race_ethnicity": "group E",
+      "parental_level_of_education": "some college",
+      "lunch": "standard",
+      "test_preparation_course": "none",
+      "math_score": 53,
+      "reading_score": 55,
+      "writing_score": 48
+    },
+    {
+      "gender": "male",
+      "race_ethnicity": "group E",
+      "parental_level_of_education": "associate's degree",
+      "lunch": "free/reduced",
+      "test_preparation_course": "completed",
+      "math_score": 77,
+      "reading_score": 69,
+      "writing_score": 68
+    },
+    {
+      "gender": "male",
+      "race_ethnicity": "group C",
+      "parental_level_of_education": "some college",
+      "lunch": "standard",
+      "test_preparation_course": "none",
+      "math_score": 53,
+      "reading_score": 44,
+      "writing_score": 42
+    },
+    {
+      "gender": "male",
+      "race_ethnicity": "group D",
+      "parental_level_of_education": "high school",
+      "lunch": "standard",
+      "test_preparation_course": "none",
+      "math_score": 88,
+      "reading_score": 78,
+      "writing_score": 75
+    },
+    {
+      "gender": "female",
+      "race_ethnicity": "group C",
+      "parental_level_of_education": "some high school",
+      "lunch": "free/reduced",
+      "test_preparation_course": "completed",
+      "math_score": 71,
+      "reading_score": 84,
+      "writing_score": 87
+    },
+    {
+      "gender": "female",
+      "race_ethnicity": "group C",
+      "parental_level_of_education": "high school",
+      "lunch": "free/reduced",
+      "test_preparation_course": "none",
+      "math_score": 33,
+      "reading_score": 41,
+      "writing_score": 43
+    }
+]

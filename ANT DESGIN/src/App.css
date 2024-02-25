@@ -1,0 +1,12 @@
+/* Define transition effect for sidebar */
+.sidebar-hidden {
+  transform: translateX(-200px);
+  opacity: 0;
+  transition: transform 0.3s ease, opacity 0.3s ease;
+}
+
+.sidebar-visible {
+  transform: translateX(0);
+  opacity: 1;
+  transition: transform 0.3s ease, opacity 0.3s ease;
+}
